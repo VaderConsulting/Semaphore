@@ -1,6 +1,6 @@
 # Semaphore
 
-VB6 working copy of `Semaphore` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Semaphore. Output: `Semaphore.exe`. `VersionCompanyName`: Chips, Bits and Bytes.
+VB6 nautical semaphore trainer (`Semaphore.exe`): plays letter GIFs (and optional international flag GIFs) for typed text with a countdown start timer. Open `Semaphore.vbp` in the VB6 IDE (expects `U:\Semaphore\` and `U:\Flags\` image folders).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,24 +10,4 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Semaphore` (`Semaphore.vbp`) | VB6 | WinForms exe | Semaphore |
-
-## How to open
-
-Open the `.vbp` in Visual Basic 6.0 IDE:
-- `Semaphore.vbp`
-
-## Requirements
-
-- Visual Basic 6.0 IDE
-- Registered OCX/DLL dependencies referenced by the `.vbp` (may need to be installed separately):
-  - `ccrpprg6.ocx`
-
-## Attribution and provenance
-
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Semaphore`.
-Company names in project files: Chips, Bits and Bytes.
-
-## License
-
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+| `Semaphore` (`Semaphore.vbp`) | VB6 | WinForms exe | Animate semaphore/flag letter GIFs for a message |
